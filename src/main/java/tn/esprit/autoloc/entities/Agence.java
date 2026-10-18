@@ -14,7 +14,7 @@ import java.util.Set;
 public class Agence {
     @GeneratedValue
     @Id
-    private long  idAgence;
+    private Long  idAgence;
     private String nom;
     private String ville;
     private String adresse;
